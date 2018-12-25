@@ -1,0 +1,2 @@
+# MouseSpy
+Simple mouse spy
